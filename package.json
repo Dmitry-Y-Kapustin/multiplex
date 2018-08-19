@@ -14,7 +14,7 @@
 	"config": {
 		"type": "app",
 		"category": "apps",
-		"name": "OTT-Player",
+		"name": "Multiplex",
 		"legacy": true,
 		"description": "Multiplex - Бесплатный кинотеатр",
 		"backgroundColor": "#00C8DA",
